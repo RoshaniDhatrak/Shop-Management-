@@ -1,2 +1,2 @@
-# Shop-Management-
-Shop management  project using java
+# Shree Swami-Samarth Treading Company 
+Shop management project using java
